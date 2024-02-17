@@ -2,9 +2,10 @@ package fastjson_test
 
 import (
 	"fmt"
-	"github.com/valyala/fastjson"
 	"log"
 	"strconv"
+
+	"github.com/logbn/fastjson-valid"
 )
 
 func ExampleParser_Parse() {

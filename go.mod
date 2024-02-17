@@ -1,3 +1,3 @@
-module github.com/valyala/fastjson
+module github.com/logbn/fastjson-valid
 
-go 1.12
+go 1.22
